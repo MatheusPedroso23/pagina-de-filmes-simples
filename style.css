@@ -1,0 +1,19 @@
+body {
+    background-color:  black;
+}
+
+h1 {
+    color: #5832a8;
+}
+h2{
+    color: aliceblue;
+    border-color: aliceblue;
+}
+h3{
+    color: aliceblue;
+    border-color: aliceblue;
+}
+
+.cor1 {
+    background-color: whitesmoke;
+}
